@@ -1,0 +1,2 @@
+// Lists all documents of school collection
+db.school.find().forEach(printjson);
